@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "software": {
+    "version": "v0.0.1",
+    "content": "软件首次发布，优化稳定性。",
+    "downloadUrl": "这里填写你的软件下载地址",
+    "backupUrl": ""
+  },
+  "so": {
+    "version": "v0.0.1",
+    "md5": "这里填写libhook.so的MD5",
+    "content": "SO 文件首次发布。",
+    "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libhook.so",
+    "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libhook.so"
+  }
+}
