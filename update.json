@@ -1,7 +1,7 @@
 {
   "success": true,
   "software": {
-    "version": "0.02",
+    "version": "0.01",
     "content": "已最新版本",//软件更新公告
     "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/app-release-0.01.apk",
     "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/app-release-0.01.apk"
