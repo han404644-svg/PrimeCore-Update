@@ -2,14 +2,14 @@
   "success": true,
   "software": {
     "version": "0.01",
-    "content": "测试更新\nTEST32131312312312\n7788\n8999222",
+    "content": "v0.01测试版\n目前PrimeCore处于公益测试阶段，请勿相信任何付费！",
     "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/app-release-0.01.apk",
     "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/app-release-0.01.apk"
   },
   "so": {
     "version": "0.01",
     "md5": "2850d51d8c36baf568a15d4aa4b14d4c",
-    "content": "SO 文件首次发布。\nwwwte",
+    "content": "v0.01最新版注入文件已更新",
     "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.01.so",
     "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.01.so"
   }
