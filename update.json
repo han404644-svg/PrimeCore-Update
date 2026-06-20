@@ -8,9 +8,9 @@
   },
   "so": {
     "version": "0.01",
-    "md5": "bcf21ffd14a9fcfa479ca959b1ac76ea",
-    "content": "v0.01测试版\n目前PrimeCore处于公益测试阶段，请勿相信任何付费！",//软件主页公告
-    "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.01.so",
-    "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.01.so"
+    "md5": "6b329e34d9b752dcfd26a08a2ebb7eda",
+    "content": "v0.02测试版\n目前PrimeCore处于公益测试阶段，请勿相信任何付费！\n本次更新优化了默认参数准度，建议删除原有的参数配置",//软件主页公告
+    "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.02.so",
+    "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.02.so"
   }
 }
