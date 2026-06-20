@@ -7,10 +7,10 @@
     "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/app-release-0.01.apk"
   },
   "so": {
-    "version": "0.02",
-    "md5": "6b329e34d9b752dcfd26a08a2ebb7eda",
-    "content": "v0.02测试版\n目前PrimeCore处于公益测试阶段，请勿相信任何付费！\n本次更新优化了默认参数准度，建议删除原有的参数配置",//软件主页公告
-    "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.02.so",
-    "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.02.so"
+    "version": "0.03",
+    "md5": "74c1f631e5c8e9ae8d6dbac8c3d6e37b",
+    "content": "v0.02测试版\n目前PrimeCore处于公益测试阶段，请勿相信任何付费！\n本次更新新增绘制采集传送，详情可看内存功能页面",//软件主页公告
+    "downloadUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.03.so",
+    "backupUrl": "https://raw.githubusercontent.com/han404644-svg/PrimeCore-Update/main/libPrimeCore0.03.so"
   }
 }
